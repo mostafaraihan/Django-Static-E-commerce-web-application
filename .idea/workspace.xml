@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="444665e4-d9b7-41e0-9d88-5f4b5efd4104" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/static_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/cart/CartList.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/cart/CartList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/cart/OrderSummary.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/cart/OrderSummary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/checkout/BillingDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/checkout/BillingDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/checkout/OrderSummaryList.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/checkout/OrderSummaryList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/common/OfferBanner.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/common/OfferBanner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/common/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/common/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/common/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/common/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/home/CategoryList.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/home/CategoryList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/home/FeaturedProductsList.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/home/FeaturedProductsList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/home/hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/home/hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/component/product/ProductDetails.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/component/product/ProductDetails.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/layout.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764300025505</updated>
-      <workItem from="1764300026645" duration="3817000" />
+      <workItem from="1764300026645" duration="5736000" />
     </task>
     <servers />
   </component>

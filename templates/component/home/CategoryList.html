@@ -4,9 +4,9 @@
             <h2 class="text-3xl sm:text-4xl font-bold tracking-tight text-zinc-900 text-center mb-12">Shop by Category</h2>
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
 
-                 {% for item in categories %}
+                {% for item in categories %}
                 <div class="bg-white border border-gray-200 rounded-lg p-6 text-center cursor-pointer hover:border-zinc-900 hover:scale-105 transition-all">
-                    <img alt="img" class="mx-auto mb-3 w-16 h-16 object-cover" src="{{ item.icon|safe }}"/>
+                    <img alt="img" class="mx-auto mb-3 w-25 h-25 object-center" src="{{ item.icon|safe }}"/>
                     <h3 class="text-sm font-medium text-zinc-900">{{ item.name }}</h3>
                 </div>
                 {% endfor %}
