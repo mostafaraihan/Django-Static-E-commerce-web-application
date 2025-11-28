@@ -20,7 +20,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-k+++qrq1j^#a589w)p9_af-bynajev-o583e30x$c17hnv)j68'
+SECRET_KEY = 'django-insecure-&oeeua7=7#l*tpx_fi!5gfe89s!un#ns01j!b4!tk2-n!$@_tf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -54,7 +54,8 @@ ROOT_URLCONF = 'Django_Static_E_commerce_web_application.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / 'templates']
+        ,
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
