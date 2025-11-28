@@ -156,7 +156,12 @@ def home(request):
         }
     ]
 
-    context = {'categories':categories,"FeaturedProductsList":FeaturedProductsList}
+    context = {
+        'categories':categories,
+        "FeaturedProductsList":FeaturedProductsList
+    }
+
+
     return  render(request, 'index.html',context)
 
 def product(request):
