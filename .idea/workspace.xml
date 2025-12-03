@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="444665e4-d9b7-41e0-9d88-5f4b5efd4104" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Django-Static-E-commerce-web-application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-Static-E-commerce-web-application.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/static_web/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/layout/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout/layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
