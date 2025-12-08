@@ -19,7 +19,7 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv/.venv/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.14 (Django-Static-E-commerce-web-application) (2)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 virtualenv at ~/Documents/Django/Django-Database-Mastering-Migration-Recreational-Field-and-MVT-Flow/.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
