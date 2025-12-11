@@ -7,7 +7,7 @@
     <list default="true" id="444665e4-d9b7-41e0-9d88-5f4b5efd4104" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Static_E_commerce_web_application/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirement.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirement.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <workItem from="1765219202260" duration="9000" />
       <workItem from="1765242696866" duration="43000" />
       <workItem from="1765293584753" duration="4000" />
-      <workItem from="1765454711264" duration="2321000" />
+      <workItem from="1765454711264" duration="2948000" />
     </task>
     <servers />
   </component>

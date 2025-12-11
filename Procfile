@@ -1,0 +1,1 @@
+web: gunicorn Django_Static_E_commerce_web_application.wsgi
