@@ -1,4 +1,4 @@
-#!/home/raihan/PycharmProjects/Django-Static-E-commerce-web-application/.venv/bin/python3
+#!/media/raihan/Document/Django/Django-Static-E-commerce-web-application/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
